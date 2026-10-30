@@ -12,8 +12,6 @@ systems the way an attacker would.
   surface analysis, vulnerability assessment, turning findings into fixes
 - **Security engineering** — hardening, identity & access (Keycloak/OIDC),
   TLS, secrets handling, audit trails
-- **Infrastructure & DevSecOps** — Docker, Linux, reproducible deployments,
-  CI with security checks, backup & recovery
 - **OSINT** — collecting and correlating open-source data with provenance
   and source rating
 
