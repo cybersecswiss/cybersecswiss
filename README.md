@@ -1,17 +1,21 @@
 ## CyberSec Swiss
 
-Security engineering from Switzerland — secure infrastructure, automation and
-investigation tooling that runs on your own servers.
+Security engineering from Switzerland — with hands-on experience on both
+sides: **defensive** as a security analyst and **offensive** in testing
+systems the way an attacker would.
 
-**Focus**
+**Experience**
 
+- **Security analysis** — monitoring and triage, incident analysis, threat
+  intelligence, correlating indicators across sources
+- **Offensive security** — penetration testing, reconnaissance and attack
+  surface analysis, vulnerability assessment, turning findings into fixes
 - **Security engineering** — hardening, identity & access (Keycloak/OIDC),
   TLS, secrets handling, audit trails
 - **Infrastructure & DevSecOps** — Docker, Linux, reproducible deployments,
   CI with security checks, backup & recovery
-- **Threat intelligence & OSINT** — collecting and correlating open-source
-  data with provenance and source rating
-- **Privacy by design** — data sovereignty, minimal data, self-hosted first
+- **OSINT** — collecting and correlating open-source data with provenance
+  and source rating
 
 **Projects**
 
@@ -27,5 +31,3 @@ nginx · Bash · Tor
 **Contact**
 
 [info@cybersecswiss.ch](mailto:info@cybersecswiss.ch) · [cybersecswiss.ch](https://cybersecswiss.ch)
-
-<sub>Deutsch · English</sub>
