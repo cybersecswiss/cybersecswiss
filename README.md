@@ -28,4 +28,4 @@ nginx · Bash · Tor
 
 **Contact**
 
-[info@cybersecswiss.ch](mailto:info@cybersecswiss.ch) · [cybersecswiss.ch](http://cybersecswiss.ch)
+[info@cybersecswiss.ch](mailto:info@cybersecswiss.ch) · [cybersecswiss.ch](https://cybersecswiss.ch)
