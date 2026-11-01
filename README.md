@@ -21,6 +21,9 @@ systems the way an attacker would.
 |---|---|
 | [**OOF — Open OSINT Framework**](https://github.com/cybersecswiss/open-osint-framework) | Self-hosted OSINT investigation platform: ~85 tools behind one web interface, case graph with provenance, and a separate data server so the operator never holds case data. Guided installer, AGPL-3.0. |
 
+OOF is free and open source. If it is useful to you, you can say thanks via
+[GitHub Sponsors](https://github.com/sponsors/cybersecswiss).
+
 **Stack**
 
 Python · FastAPI · TypeScript · React · PostgreSQL · Keycloak · Docker ·
